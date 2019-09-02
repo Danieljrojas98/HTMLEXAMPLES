@@ -2,6 +2,9 @@
 Ejemplos de HTML
 Readme1
 <Html>
-  <p> Soy Daniel Rojas </p>
+  <h1>Título</h1>
+  <h2>Subtítulo<h2>
+  <p> Soy Daniel Rojas 
+    Este es un HTML</p>
   
   </html>
